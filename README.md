@@ -16,3 +16,6 @@ Demo: https://drive.google.com/file/d/12km0Efs2Z8g7aaBlYi_6iq7IUlomP8V_/view?usp
    - Document Reading tool
    - Document Creation tool
    - (Would be good to add a schema tool to constrain the agent.)
+3. Reviewer
+   - Directory reading tool
+   - Document Reading tool
