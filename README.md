@@ -1,5 +1,6 @@
 # Data_Engineer_Agent
-AI data engineer that can scrape any website based on a URL and populate your documents/database with the correct scraped data.
+AI data engineer automating the ETL proccess.
+This agent crew takes in a query + URL, scrapes the website/websites, cleans & structures the data, and populates your documents/database with the correct scraped data.
 
 Demo: https://drive.google.com/file/d/12km0Efs2Z8g7aaBlYi_6iq7IUlomP8V_/view?usp=sharing
 
