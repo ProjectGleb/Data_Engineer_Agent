@@ -5,8 +5,7 @@ Demo: https://drive.google.com/file/d/12km0Efs2Z8g7aaBlYi_6iq7IUlomP8V_/view?usp
 
 ## AGENTS:
 1. Scraper/Crawler + Data Processor: Extracts, cleans, and processes website content.
-2. Writer: Drafts initial unstructured outputs (e.g., PDFs, CSV, websites).
-3. Loader: Reads and writes to databases, CSVs, PDFs, websites, etc.
+2. Writer: Reads the dataset/document to familiarise with its structure, cleans the data and appends it to the dataset/document (e.g., PDFs, CSV, websites).
 4. Reviewer: Ensures data entry accuracy.
 
 ## TOOLS:
